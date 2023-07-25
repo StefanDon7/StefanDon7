@@ -2,6 +2,7 @@
 ### Student at Faculty of organizational sciences 
 ### Connect with me 
  -->
+<div style="background-color: black">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -28,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefandon7&show_icons=true&locale=en" alt="stefandon7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefandon7&" alt="stefandon7" /></p>
-
+</div>
